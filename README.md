@@ -32,7 +32,7 @@
       <label for="email"> Email:</label><br>
       <input type="email" name="email" value=""><br>
 
-      <input id="sub" type="submit" name="" value="SIgn me Up!">
+      <input id="sub" type="submit" name="" value="PING ME!">
 
     </form>
 
