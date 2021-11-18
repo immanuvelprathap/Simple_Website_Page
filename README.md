@@ -3,7 +3,7 @@
 
 [My_Website](https://immanuvelprathap.github.io/My_Website/)
 
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
